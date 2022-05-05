@@ -17,6 +17,6 @@ This README describes a project which is still incomplete and seemed awfully con
 
 Let's see if I can attach an image to this baby.
 
-![An image showing what the website looks like](/Challenge1V5/Screenshot%202022-04-28%20at%2022-42-52%20A%20Concise%20Descriptive%20Title.png)
+![An image showing what the website looks like](./assets/images/Screenshot%202022-04-28%20at%2022-42-52%20A%20Concise%20Descriptive%20Title.png)
 
 Titillating that was.
